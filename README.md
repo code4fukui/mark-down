@@ -1,6 +1,17 @@
 # mark-down
 
-- mark-down is an ex-tag forked [marked](https://github.com/markedjs/marked)
+An ex-tag forked [marked](https://github.com/markedjs/marked).
+
+## Demo
+
+Checkout the [demo page](./demo/) to see mark-down in action.
+
+## Features
+
+- Renders Markdown to HTML
+- Supports CommonMark and GitHub Flavored Markdown
+- Async rendering with fetch
+- Automatically updates when the `src` attribute changes
 
 ## Usage
 
@@ -12,3 +23,7 @@
 Rendered by **marked**.
 </mark-down>
 ```
+
+## License
+
+This project is licensed under the MIT License.
