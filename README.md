@@ -1,6 +1,8 @@
 # mark-down
 
-An ex-tag forked [marked](https://github.com/markedjs/marked).
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
+An ex-tag forked from [marked](https://github.com/markedjs/marked).
 
 ## Demo
 
